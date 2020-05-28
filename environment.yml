@@ -9,3 +9,4 @@ dependencies:
   - python=3.6.10
   - tqdm=4.46.0
   - yapf=0.29.0
+  - icalendar=4.0.5
